@@ -1,3 +1,1 @@
-내가 생각한 창업 아이템
-아이디어 원천 : 나의 감정, 기분 등에 따른 노래 변경 시 어플에서 직접 노래 변경해야 하는데 노래 제목이 기억이 안 나거나 찾기에 불편기에 생체리듬에 따른 자신의 플레이리스트 및 알고리즘을 통한 자동 노래 변경을 가능하도록 함
-창업 아이템 : 생체리듬(자신의 감정, 기분 파악 가능)을 통한 완전 자동화 노래 어플
+<img width="748" height="603" alt="image" src="https://github.com/user-attachments/assets/a04556f4-dacf-4b48-9017-54e2ff7f7651" />![2주차](https://github.com/user-attachments/assets/f2a88805-ce35-478a-b34e-caced4c1806a)
